@@ -1,0 +1,4 @@
+c:\users\changenzo\documents\visual studio 2015\Projects\LowpassFilter\LowpassFilter\bin\Debug\LowpassFilter.dll
+c:\users\changenzo\documents\visual studio 2015\Projects\LowpassFilter\LowpassFilter\bin\Debug\LowpassFilter.pdb
+c:\users\changenzo\documents\visual studio 2015\Projects\LowpassFilter\LowpassFilter\obj\Debug\LowpassFilter.dll
+c:\users\changenzo\documents\visual studio 2015\Projects\LowpassFilter\LowpassFilter\obj\Debug\LowpassFilter.pdb
